@@ -1,0 +1,11 @@
+﻿Id,Name,Description,Phrase,Start,End
+0,<20 bpm,Larghissimo,very very slow,0,19
+0,20–40 bpm,Grave,slow and solemn,20,39
+0,40–60 bpm,Lento,slowly,40,59
+0,60–66 bpm,Larghetto,rather broadly,60,65
+0,66–76 bpm,Adagio,slow and stately,66,75
+0,76–108 bpm,Andante,at a walking pace,76,107
+0,108–120 bpm,Moderato,moderately,108,119
+0,120–168 bpm,Allegro,fast quickly and bright,120,167
+0,168–200 bpm,Presto,very fast,168,199
+0,>200bpm,Prestissimo,extremely fast,200,1000
