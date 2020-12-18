@@ -1,5 +1,12 @@
 {
 	"BookName": "CCWS",
 	"SectionType": "Main",
-	"SheetType": "LeadSheet"
+	"SheetType": "LeadSheet",
+	"Indexes": [
+		"Alphabetical",
+		"Detailed",
+		"Keys",
+		"Authors",
+		"DatePublished"
+	]
 }
