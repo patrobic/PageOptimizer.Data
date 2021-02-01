@@ -292,9 +292,7 @@
 		"IndexPages": {
 			"Sections": {
 				"5": {
-					"DependentSections": [
-						6
-					],
+					"LinkedSection": 6,
 					"Indexes": [
 						{
 							"Name": "Alphabetical Index",
@@ -324,9 +322,7 @@
 					]
 				},
 				"7": {
-					"DependentSections": [
-						8
-					],
+					"LinkedSection": 8,
 					"Indexes": [
 						{
 							"Name": "Alphabetical Index",
