@@ -1,7 +1,0 @@
-﻿Id,Name,Description
-0,DoNotAdd,Not considered for use in book
-0,NotFound,Song not found on CCLI SongSelect
-0,Final,Selected for inclusion in book
-0,Rejected,Considered then excluded from book
-0,ToAdd,To add in next edition of book
-0,Duplicate,Erroneous double of a song
